@@ -1,0 +1,48 @@
+{
+  "items": [
+    {
+      "id": "1738866000001",
+      "type": "recipe",
+      "status": "pending",
+      "createdAt": "2026-02-06T15:00:00Z",
+      "title": "Sweet Potato & Lentil Soup (Iftar)",
+      "prepTime": "45 mins",
+      "sourceUrl": "https://instagram.com/p/example",
+      "ingredients": "2 large sweet potatoes, diced\n1 cup red lentils\n1 onion, chopped\n3 cloves garlic\n1 tsp cumin\n1 tsp turmeric\n4 cups vegetable broth\nSalt & pepper to taste\nFresh cilantro for garnish",
+      "instructions": "1. Sauté onion and garlic until fragrant\n2. Add spices, cook 1 min\n3. Add sweet potatoes, lentils, and broth\n4. Simmer 30-35 mins until tender\n5. Blend until smooth\n6. Season and serve with cilantro",
+      "image": null
+    },
+    {
+      "id": "1738866000002",
+      "type": "restaurant",
+      "status": "pending",
+      "createdAt": "2026-02-06T14:00:00Z",
+      "title": "Reza's Restaurant",
+      "location": "432 W Ontario St, Chicago, IL",
+      "cuisine": "Persian / Mediterranean",
+      "halalStatus": "Fully Halal (Zabiha)",
+      "rating": "4.5/5",
+      "summary": "Upscale Persian spot with excellent kabobs and fresh bread. Great for business dinners."
+    },
+    {
+      "id": "1738866000003",
+      "type": "task",
+      "status": "pending",
+      "createdAt": "2026-02-06T13:00:00Z",
+      "title": "Review U of M Law School RFP",
+      "dueDate": "2026-02-10",
+      "priority": "High",
+      "notes": "University of Michigan sent amended RFP for food services. Assess fit for Huel Automated Retail."
+    },
+    {
+      "id": "1738866000004",
+      "type": "update",
+      "status": "pending",
+      "createdAt": "2026-02-06T12:00:00Z",
+      "title": "Huel Logistics Update",
+      "category": "Logistics",
+      "summary": "Still waiting for Piotr (Corten) to send rate breakdown for UK→US shipment.",
+      "actionNeeded": "Follow up if no response by Monday"
+    }
+  ]
+}
