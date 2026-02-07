@@ -43,6 +43,17 @@
       "category": "Logistics",
       "summary": "Still waiting for Piotr (Corten) to send rate breakdown for UK→US shipment.",
       "actionNeeded": "Follow up if no response by Monday"
+    },
+    {
+      "id": "1738948560001",
+      "type": "recipe",
+      "status": "pending",
+      "createdAt": "2026-02-07T18:56:00Z",
+      "title": "Instagram Recipe (DTQaXSTCfOX)",
+      "sourceUrl": "https://www.instagram.com/reel/DTQaXSTCfOX/?igsh=cnh4czY0NWtyYnZk",
+      "ingredients": "To be parsed from the Instagram reel once scraping is fully wired.",
+      "instructions": "Open the Instagram reel and follow the on-screen steps. Full structured ingredients and instructions will be auto-filled after the scraper pass.",
+      "image": null
     }
   ]
 }
